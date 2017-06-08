@@ -1,0 +1,24 @@
+{
+  "name": "swahilipot_bot",
+  "version": "1.0.0",
+  "description": "A bot for Swahilipot tweeter Account",
+  "main": "index.js",
+  "dependencies": {
+    "twit": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reaper45/SwahiliPot-Bot.git"
+  },
+  "author": "Joram MWashighadi (Reaper45)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reaper45/SwahiliPot-Bot/issues"
+  },
+  "homepage": "https://github.com/Reaper45/SwahiliPot-Bot#readme"
+}
