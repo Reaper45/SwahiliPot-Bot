@@ -1,3 +1,8 @@
+/*
+* Author: Joram MWashighadi
+* Created: 08/06/2017
+* License: [MIT]
+*/
 
 var Twit = require('twit');
 var config = require('./config');
